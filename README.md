@@ -1,4 +1,4 @@
-# 👋 Welcome to Purple Squirrel Media's GitHub Profile!
+# 👋 Welcome to Purple Squirrel Media's Official Github Profile!
 
 ## 🔭 What We're Working On
 We're excitedly preparing for our #PURP token listing on @JupiterExchange. Our journey towards this milestone includes adopting a fixed token supply on the Solana blockchain, ensuring scarcity and enhancing the value of PURP as a digital asset.
