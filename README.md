@@ -47,7 +47,3 @@ Our Ethos
 *   Commitment to Excellence: Our goal is to be the perfect fit for our users' needs, akin to the 'Purple Squirrel' in human resources - the ideal match.
 
 Thank you for visiting our GitHub repository. Together, let's innovate and shape the future of digital media. 🌟
-Message Purple Squirrel NFT Generator…
-
-
-ChatGPT can make mistakes. Consider checking important information.
