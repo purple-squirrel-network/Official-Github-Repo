@@ -1,8 +1,7 @@
-![Auto Assign](https://github.com/PurpleSquirrelMedia/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
-
-![Proof HTML](https://github.com/PurpleSquirrelMedia/demo-repository/actions/workflows/proof-html.yml/badge.svg)
-
 Purple Squirrel Network: Harnessing Solana's Latest 'SPL Token Standards' and Extensions
+Auto Assign
+Proof HTML
+
 Welcome to the Purple Squirrel Network GitHub repository, your portal to our latest innovations in digital assets and blockchain technology. As we gear up for our listing on the Jupiter Exchange, we're excited to share how we're leveraging Solana's groundbreaking 'Token Extensions' to redefine token development.
 
 About This Repository
@@ -30,3 +29,4 @@ For collaboration, support, or questions, feel free to open an issue in this rep
 
 As we approach our listing on the Jupiter Exchange on January 31st, Purple Squirrel Network is set to make a significant impact in the world of cryptocurrencies and digital assets. Stay tuned for more updates and be a part of this exciting journey! 🚀🌟
 
+Feel free to modify the links for Discord and Twitter as necessary to direct users to the appropriate channels.
