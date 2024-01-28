@@ -10,9 +10,13 @@ This repository is structured to demonstrate the capabilities and potential appl
 
 ### Directory Structure
 
-bashCopy code
-
-`/PurpleSquirrelDemoRepo |-- .github/workflows    # GitHub actions and CI/CD workflows |   |-- [workflow files] # Specific workflow files | |-- README.md            # Comprehensive project documentation |-- index.html           # Demonstration of web interface capabilities |-- package.json         # Project metadata and dependency management`
+/PurpleSquirrelDemoRepo
+|-- .github/workflows    # GitHub actions and CI/CD workflows
+|   |-- [workflow files] # Specific workflow files
+|
+|-- README.md            # Comprehensive project documentation
+|-- index.html           # Demonstration of web interface capabilities
+|-- package.json         # Project metadata and dependency management
 
 What's Inside?
 --------------
@@ -48,6 +52,6 @@ Stay Connected
 --------------
 
 *   **[Discord](#)**
-*   **[Twitter](#)**
+*   **[https://x.com/squirrel_eth](#)**
 
 Join us in shaping the future of digital assets on the Solana blockchain with the Purple Squirrel Network. 🚀🌟
